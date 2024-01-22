@@ -250,18 +250,18 @@ section {
   font-size: 1.5rem;
 }
 
-.descrip {
+.descrip p {
   padding: 1.5% 0;
   text-align: justify;
 }
 
-.img-ficcion img {
+.img-ficcion {
   width: 65%;
   display: block;
   margin: 10px auto;
 }
 
-.img-ficcion figcaption {
+.descrip p:last-child {
   text-align: center;
 }
 
@@ -272,5 +272,3 @@ section {
     overflow: auto;
   }
 }
-
-
