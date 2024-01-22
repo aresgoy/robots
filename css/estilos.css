@@ -273,11 +273,4 @@ section {
   }
 }
 
- /* Estilos para pantallas grandes */
-@media (min-width: 1024px) {
-  body {
-    font-size: 16px;
-    width: 80%;
-    margin: 0 auto;
-  }
-}
+
